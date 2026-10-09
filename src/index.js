@@ -51,9 +51,9 @@ console.log(chalk.bold.cyan(`
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀
 ⠀⠀⠀
-¤═―— ⎧ 𝐥𝐢𝐤𝐬𝐜𝐚𝐦 𝐁𝐀𝐈𝐋𝐄𝐘𝐒 ⎭ ⊱―—═¤
+¤═―— ⎧ 𝐥𝐢𝐡𝐚𝐫𝐦𝐧𝐝_ 𝐁𝐀𝐈𝐋𝐄𝐘𝐒 ⎭ ⊱―—═¤
 Information:
-Developer: @likscam
+Developer: @lihscam
 Version: 12.1
 Status: Baileys Berhasil Terinstall
 Update date: 7/10/26
