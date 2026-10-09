@@ -15,7 +15,7 @@ A high-performance WhatsApp Web library built on [Baileys](https://github.com/Wh
 |---|---|
 | 📦 **Package** | `@liktmvnn/baileys` |
 | 🏷️ **Version** | `8.5.3` |
-| 💬 **Telegram** | [t.me/FoxsSql](https://t.me/FoxsSql) |
+| 💬 **Telegram** | [t.me/likscam](https://t.me/FoxsSql) |
 | 🐙 **GitHub** | [github.com/galzyjaj-code](https://github.com/galzyjaj-code) |
 
 ---
