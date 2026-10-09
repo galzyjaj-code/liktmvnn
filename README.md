@@ -13,7 +13,7 @@ A high-performance WhatsApp Web library built on [Baileys](https://github.com/Wh
 
 | | |
 |---|---|
-| 📦 **Package** | `@badzz88/baileys` |
+| 📦 **Package** | `@liktmvnn/baileys` |
 | 🏷️ **Version** | `8.5.3` |
 | 💬 **Telegram** | [t.me/FoxsSql](https://t.me/FoxsSql) |
 | 🐙 **GitHub** | [github.com/Badzz88](https://github.com/Badzz88) |
