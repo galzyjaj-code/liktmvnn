@@ -56,12 +56,12 @@ console.log(chalk.bold.cyan(`
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡄⠀⠀⠀⠀⣰⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠆⠀⠀⠐⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀
-¤═―— ⎧ 𝐁𝐀𝐃𝐙𝐙 𝐁𝐀𝐈𝐋𝐄𝐘𝐒 ⎭ ⊱―—═¤
+¤═―— ⎧ 𝐥𝐢𝐤𝐬𝐜𝐚𝐦 𝐁𝐀𝐈𝐋𝐄𝐘𝐒 ⎭ ⊱―—═¤
 Information:
-Developer: @badzzne2
+Developer: @likscam
 Version: 12.1
 Status: Baileys Berhasil Terinstall
-Update date: 17/08/26
+Update date: 7/10/26
 `));
 console.log(chalk.bold.cyan("Follow Our Telegram Channel To See Update Information: t.me/FoxsSql\n"));
 console.log(chalk.bold.gray("--------------------------------------------\n"));
