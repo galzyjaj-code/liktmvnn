@@ -8,7 +8,7 @@ A high-performance WhatsApp Web library built on [Baileys](https://github.com/Wh
 </p>
 <p align="center">
   <a href="https://t.me/likscam"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-FoxsSql-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/galzyjaj-code"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Badzz88-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/galzyjaj-code"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-galzyjaj-code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 | | |
